@@ -11,8 +11,8 @@ Environment
 
 1. Visit http://www.severalnines.com/galera-configurator/
 2. Fill in all the required information
-3 Choose "Ubuntu 12.04" as the OS
-4 Choose "root" as the OS User
+3. Choose "Ubuntu 12.04" as the OS
+4. Choose "root" as the OS User
 5. You will be sent an email with the installation tarball from SeveralNines
 6. git clone https://github.com/uksysadmin/VagrantGalera.git
 7. cd VagrantGalera
