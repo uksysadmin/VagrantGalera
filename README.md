@@ -1,5 +1,5 @@
 Vagrantized SeveralNines Galera Setup
-By Kevin Jackson @itarchitectkev
+By Kevin Jackson @itarchitectkev. Instructions accompany The OpenStack Cloud Computing Cookbook 2nd Edition http://www.openstackcookbook.com/ | www.packtpub.com/openstack-cloud-computing-cookbook-second-edition/book 
 
 Visit http://www.SeveralNines.com/ for more information on their ClusterControl software!
 
