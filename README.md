@@ -1,7 +1,7 @@
 Vagrantized SeveralNines Galera Setup
 By Kevin Jackson @itarchitectkev
 
-http://www.SeveralNines.com/
+Visit http://www.SeveralNines.com/ for more information on their ClusterControl software!
 
 Environment
 * cmon  172.16.0.100
@@ -11,11 +11,12 @@ Environment
 
 1. Visit http://www.severalnines.com/galera-configurator/
 2. Fill in all the required information
-* Choose "root" as the OS User
-3. You will be sent an email with the installation tarball from SeveralNines
-4. git clone https://github.com/uksysadmin/VagrantGalera.git
-5. Copy the SeveralNines Installation script sent in the email to VagrantGalera directory created when you checked out the repo
-6. vagrant up
-7. Answer the questions on screen!
-
+3 Choose "Ubuntu 12.04" as the OS
+4 Choose "root" as the OS User
+5. You will be sent an email with the installation tarball from SeveralNines
+6. git clone https://github.com/uksysadmin/VagrantGalera.git
+7. cd VagrantGalera
+8. Copy the SeveralNines Installation tarball sent in the email to VagrantGalera directory created when you checked out the repo
+9. vagrant up
+10. Follow the instructions on screen!
 
